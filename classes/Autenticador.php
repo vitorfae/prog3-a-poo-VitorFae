@@ -1,8 +1,8 @@
 <?php
 
-require_once 'Usuario.php';
+require_once 'Usuario.php'; //importando classe usuário que será utilizada
 
-class Autenticador {
+class Autenticador { //Início da classe
     private static string $arquivo = 'dados.php';
 
     public static function registrar(Usuario $usuario): void {
