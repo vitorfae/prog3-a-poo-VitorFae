@@ -1,6 +1,6 @@
-Acadêmico: Vitor Matheus Faé Ulrich
-turma: 5ª Fase Videira
-Matéria: Programação III
+Acadêmico: Vitor Matheus Faé Ulrich.
+turma: 5ª Fase Videira.
+Matéria: Programação III.
 
 Projeto desenvolvido utilizando PHP 8 puro e usando programação orientada a objeto, e para uma aplicação WEB simples. Foi desenvolvido um sistema de login e utilizado cookies também.
 
